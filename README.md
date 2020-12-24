@@ -1,6 +1,6 @@
 # Home 2077  ❤ 
 
-<br><br> ![QON](https://github.com/WatcharapolxFa/Fingerprint_scanning_system/blob/master/intro.png) <br><br>
+<br><br> ![QON](https://github.com/WatcharapolxFa/Fingerprint_scanning_system/blob/master/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%81/intro.png) <br><br>
 
 `  Home 2077 | C++  `   พัฒนาขึ้นโดยใช้   `  Arduino IDE X Blynk` 🦩 <br><br>
 
@@ -39,6 +39,6 @@
 
 ## ♠ Home 2077  >> Please click on the picture. <<
 
-[![alt text](https://github.com/WatcharapolxFa/GAME_SFML/blob/master/GAME_SFML/charecter/itc.png?raw=true)](https://www.youtube.com/watch?v=aXzMEtPj1uk&fbclid=IwAR2dQJ0i6ndV6og_DMwQbiOsOOs5i4dHjhRkz1ndwUpmCC2CZRYcpNZZ96g)
+[![alt text]https://github.com/WatcharapolxFa/Fingerprint_scanning_system/blob/master/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%81/3in1.png?raw=true)](https://www.youtube.com/watch?v=aXzMEtPj1uk&fbclid=IwAR2dQJ0i6ndV6og_DMwQbiOsOOs5i4dHjhRkz1ndwUpmCC2CZRYcpNZZ96g)
 
 <br> 
